@@ -1,5 +1,5 @@
 <template>
-  <button class='btn btn-dark'> Continue>> </button>
+  <button class='btn btn-dark' size = "lg"> Continue>> </button>
 </template>
 
 <script>

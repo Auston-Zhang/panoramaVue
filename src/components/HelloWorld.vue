@@ -2,6 +2,8 @@
    <div class="container">
       <transition name="fade">
         <img class="container" v-bind:src="src" v-on:load="onLoaded" v-show="loaded">&nbsp;
+      
+
       </transition>
    </div>
 </template>
